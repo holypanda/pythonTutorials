@@ -3,7 +3,7 @@ import random
 random_int = random.randint(0, 100)
 round_count = 0
 while True:
-    player_guess_num = int(input("猜一个数字，范围是0-100"))
+    player_guess_num = int(input("猜一个数字，范围是0-100"))  # 有可能出错的代码
     if player_guess_num < random_int:
         print("你猜的数字太小了！")
     elif player_guess_num > random_int:
