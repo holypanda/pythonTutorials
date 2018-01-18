@@ -10,113 +10,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pythonTutorials$guess_number_game_2_0__1_.coverage" NAME="guess_number_game_2.0 (1) Coverage Results" MODIFIED="1516266986427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏" />
     <SUITE FILE_PATH="coverage/pythonTutorials$guess_number_game.coverage" NAME="guess_number_game Coverage Results" MODIFIED="1516002035067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learnPython/day_4 逻辑判断与循环/实战1 猜数字游戏" />
     <SUITE FILE_PATH="coverage/pythonTutorials$guess_number_game_2_0.coverage" NAME="guess_number_game_2.0 Coverage Results" MODIFIED="1516003888876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learnPython/day_6 函数与封装" />
     <SUITE FILE_PATH="coverage/pythonTutorials$if_elif__else.coverage" NAME="if_elif,_else Coverage Results" MODIFIED="1515747929843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learnPython/day_4 逻辑判断与循环" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="a. 列表与元组.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learnPython/day_3 数据结构/a. 列表与元组.md">
+      <file leaf-file-name="b. 自动猜数字的实现(二分法).md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏/b. 自动猜数字的实现(二分法).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="25" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b. 字典和集.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learnPython/day_3 数据结构/b. 字典和集.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1968">
-                <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="42" selection-end-column="19" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="c. 第三天的目标.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learnPython/day_3 数据结构/c. 第三天的目标.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="864">
-                <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="helloWorld.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learnPython/day_1 环境配置与第一个python程序/helloWorld.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a. 异常处理.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learnPython/day_5 异常处理/a. 异常处理.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1017">
-                <caret line="67" column="43" lean-forward="false" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="guess_number_game_1.0.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learnPython/day_5 异常处理/guess_number_game_1.0.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a. 函数.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learnPython/day_6 函数与封装/a. 函数.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="960">
-                <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b. 封装.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learnPython/day_6 函数与封装/b. 封装.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="633">
-                <caret line="60" column="9" lean-forward="false" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+              <first_editor relative-caret-position="-2027">
+                <caret line="144" column="24" lean-forward="true" selection-start-line="144" selection-start-column="24" selection-end-line="144" selection-end-column="24" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -127,25 +33,26 @@
         </entry>
       </file>
       <file leaf-file-name="guess_number_game_2.0.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learnPython/day_6 函数与封装/guess_number_game_2.0.py">
+        <entry file="file://$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏/guess_number_game_2.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-              <folding>
-                <element signature="e#51#141#0" expanded="false" />
-                <element signature="e#174#261#0" expanded="false" />
-                <element signature="e#325#578#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="1339">
+              <caret line="76" column="6" lean-forward="true" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="guess_number_game.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learnPython/day_4 逻辑判断与循环/实战1 猜数字游戏/guess_number_game.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-              <folding />
+      <file leaf-file-name="c. 分析我们的算法.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏/c. 分析我们的算法.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="480">
+                <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -190,6 +97,11 @@
         <option value="$PROJECT_DIR$/learnPython/day_6 函数与封装/a. 函数.md" />
         <option value="$PROJECT_DIR$/learnPython/day_6 函数与封装/guess_number_game_2.0.py" />
         <option value="$PROJECT_DIR$/learnPython/day_6 函数与封装/b. 封装.md" />
+        <option value="$PROJECT_DIR$/learnPython/day_7 算法/a. 算法介绍.md" />
+        <option value="$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏/a. 二分法.md" />
+        <option value="$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏/guess_number_game_2.0.py" />
+        <option value="$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏/b. 自动猜数字的实现(二分法).md" />
+        <option value="$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏/c. 分析我们的算法.md" />
       </list>
     </option>
   </component>
@@ -199,7 +111,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="1280" />
     <option name="height" value="900" />
   </component>
@@ -238,6 +150,18 @@
               <item name="learnPython" type="462c0819:PsiDirectoryNode" />
               <item name="day_6 函数与封装" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pythonTutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="learnPython" type="462c0819:PsiDirectoryNode" />
+              <item name="day_7 算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="learnPython" type="462c0819:PsiDirectoryNode" />
+              <item name="day_8 基于算法设计一个自动玩猜数字游戏" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -250,6 +174,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/learnPython/day_1" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\38086\PycharmProjects\PythonTutorial\pythonTutorials\learnPython\day_8 基于算法设计一个自动玩猜数字游戏" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\38086\PycharmProjects\PythonTutorial\learnPython\day_1" />
     </key>
@@ -266,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.guess_number_game_2.0">
+  <component name="RunManager" selected="Python.guess_number_game_2.0 (1)">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,6 +272,25 @@
       <module name="pythonTutorials" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learnPython/day_4 逻辑判断与循环/实战1 猜数字游戏/guess_number_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="guess_number_game_2.0 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonTutorials" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏/guess_number_game_2.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -481,16 +427,18 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.if_elif,_else" />
       <item index="1" class="java.lang.String" itemvalue="Python.guess_number_game" />
       <item index="2" class="java.lang.String" itemvalue="Python.guess_number_game_2.0" />
+      <item index="3" class="java.lang.String" itemvalue="Python.guess_number_game_2.0 (1)" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.guess_number_game_2.0" />
-        <item index="1" class="java.lang.String" itemvalue="Python.guess_number_game" />
-        <item index="2" class="java.lang.String" itemvalue="Python.if_elif,_else" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.guess_number_game_2.0 (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.guess_number_game_2.0" />
+        <item index="2" class="java.lang.String" itemvalue="Python.guess_number_game" />
+        <item index="3" class="java.lang.String" itemvalue="Python.if_elif,_else" />
       </list>
     </recent_temporary>
   </component>
@@ -511,7 +459,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
+    <frame x="-13" y="-13" width="2762" height="1770" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -812,32 +760,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/day_5 异常处理/a. 异常处理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1017">
-            <caret line="67" column="43" lean-forward="false" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/day_4 逻辑判断与循环/实战1 猜数字游戏/guess_number_game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learnPython/day_6 函数与封装/a. 函数.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="960">
-            <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+            <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor>
@@ -854,10 +781,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/learnPython/day_6 函数与封装/b. 封装.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="633">
+            <caret line="60" column="9" lean-forward="false" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnPython/day_4 逻辑判断与循环/实战1 猜数字游戏/guess_number_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learnPython/day_6 函数与封装/guess_number_game_2.0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
             <element signature="e#51#141#0" expanded="false" />
             <element signature="e#174#261#0" expanded="false" />
@@ -866,11 +814,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython/day_6 函数与封装/b. 封装.md">
+    <entry file="file://$PROJECT_DIR$/learnPython/day_7 算法/a. 算法介绍.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="633">
-            <caret line="60" column="9" lean-forward="false" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+          <first_editor relative-caret-position="720">
+            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnPython/day_5 异常处理/a. 异常处理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1017">
+            <caret line="67" column="43" lean-forward="false" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏/a. 二分法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="757">
+            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏/b. 自动猜数字的实现(二分法).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2027">
+            <caret line="144" column="24" lean-forward="true" selection-start-line="144" selection-start-column="24" selection-end-line="144" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏/guess_number_game_2.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1339">
+          <caret line="76" column="6" lean-forward="true" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏/c. 分析我们的算法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="480">
+            <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
             <folding />
           </first_editor>
           <second_editor>
