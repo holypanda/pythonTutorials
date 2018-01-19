@@ -10,6 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pythonTutorials$guess_number_game_3_0.coverage" NAME="guess_number_game_3.0 Coverage Results" MODIFIED="1516353630566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learnPython/day_9 小游戏扩展 （蒙特卡洛模拟）" />
     <SUITE FILE_PATH="coverage/pythonTutorials$guess_number_game_2_0__1_.coverage" NAME="guess_number_game_2.0 (1) Coverage Results" MODIFIED="1516266986427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏" />
     <SUITE FILE_PATH="coverage/pythonTutorials$guess_number_game.coverage" NAME="guess_number_game Coverage Results" MODIFIED="1516002035067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learnPython/day_4 逻辑判断与循环/实战1 猜数字游戏" />
     <SUITE FILE_PATH="coverage/pythonTutorials$guess_number_game_2_0.coverage" NAME="guess_number_game_2.0 Coverage Results" MODIFIED="1516003888876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learnPython/day_6 函数与封装" />
@@ -42,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="c. 分析我们的算法.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="c. 分析我们的算法.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏/c. 分析我们的算法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -53,6 +54,33 @@
               <second_editor>
                 <js_state />
               </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a. 推导未知的算法（模型）.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learnPython/day_9 小游戏扩展 （蒙特卡洛模拟）/a. 推导未知的算法（模型）.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="768">
+                <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guess_number_game_3.0.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learnPython/day_9 小游戏扩展 （蒙特卡洛模拟）/guess_number_game_3.0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="591">
+              <caret line="93" column="4" lean-forward="false" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="4" />
+              <folding>
+                <marker date="1516353832888" expanded="true" signature="2755:2992" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,6 +130,8 @@
         <option value="$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏/guess_number_game_2.0.py" />
         <option value="$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏/b. 自动猜数字的实现(二分法).md" />
         <option value="$PROJECT_DIR$/learnPython/day_8 基于算法设计一个自动玩猜数字游戏/c. 分析我们的算法.md" />
+        <option value="$PROJECT_DIR$/learnPython/day_9 小游戏扩展 （蒙特卡洛模拟）/a. 推导未知的算法（模型）.md" />
+        <option value="$PROJECT_DIR$/learnPython/day_9 小游戏扩展 （蒙特卡洛模拟）/guess_number_game_3.0.py" />
       </list>
     </option>
   </component>
@@ -148,19 +178,13 @@
               <item name="pythonTutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonTutorials" type="462c0819:PsiDirectoryNode" />
               <item name="learnPython" type="462c0819:PsiDirectoryNode" />
-              <item name="day_6 函数与封装" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonTutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonTutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="learnPython" type="462c0819:PsiDirectoryNode" />
-              <item name="day_7 算法" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonTutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonTutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="learnPython" type="462c0819:PsiDirectoryNode" />
               <item name="day_8 基于算法设计一个自动玩猜数字游戏" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="learnPython" type="462c0819:PsiDirectoryNode" />
+              <item name="day_9 小游戏扩展 （蒙特卡洛模拟）" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -175,6 +199,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\38086\PycharmProjects\PythonTutorial\pythonTutorials\learnPython\day_9 小游戏扩展 （蒙特卡洛模拟）" />
       <recent name="C:\Users\38086\PycharmProjects\PythonTutorial\pythonTutorials\learnPython\day_8 基于算法设计一个自动玩猜数字游戏" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -193,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.guess_number_game_2.0 (1)">
+  <component name="RunManager" selected="Python.guess_number_game_3.0">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,6 +340,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="guess_number_game_3.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learnPython/day_9 小游戏扩展 （蒙特卡洛模拟）" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonTutorials" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learnPython/day_9 小游戏扩展 （蒙特卡洛模拟）/guess_number_game_3.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="if_elif,_else" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -427,18 +471,20 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.if_elif,_else" />
       <item index="1" class="java.lang.String" itemvalue="Python.guess_number_game" />
       <item index="2" class="java.lang.String" itemvalue="Python.guess_number_game_2.0" />
       <item index="3" class="java.lang.String" itemvalue="Python.guess_number_game_2.0 (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.guess_number_game_3.0" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.guess_number_game_2.0 (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.guess_number_game_2.0" />
-        <item index="2" class="java.lang.String" itemvalue="Python.guess_number_game" />
-        <item index="3" class="java.lang.String" itemvalue="Python.if_elif,_else" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.guess_number_game_3.0" />
+        <item index="1" class="java.lang.String" itemvalue="Python.guess_number_game_2.0 (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.guess_number_game_2.0" />
+        <item index="3" class="java.lang.String" itemvalue="Python.guess_number_game" />
+        <item index="4" class="java.lang.String" itemvalue="Python.if_elif,_else" />
       </list>
     </recent_temporary>
   </component>
@@ -492,7 +538,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -884,6 +930,29 @@
           <second_editor>
             <js_state />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnPython/day_9 小游戏扩展 （蒙特卡洛模拟）/a. 推导未知的算法（模型）.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="768">
+            <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnPython/day_9 小游戏扩展 （蒙特卡洛模拟）/guess_number_game_3.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="93" column="4" lean-forward="false" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="4" />
+          <folding>
+            <marker date="1516353832888" expanded="true" signature="2755:2992" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
